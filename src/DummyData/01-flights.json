@@ -1,0 +1,16 @@
+[
+  {
+    "departureAirport": "LHR",
+    "arrivalAirport": "JFK",
+    "departureTime": "2019-08-01T08:00:00Z",
+    "arrivalTime": "2019-08-01T11:00:00Z",
+    "price": 1000
+  },
+  {
+    "departureAirport": "AUK",
+    "arrivalAirport": "BRS",
+    "departureTime": "2019-08-01T08:00:00Z",
+    "arrivalTime": "2019-08-01T11:00:00Z",
+    "price": 1200
+  }
+]
