@@ -1,0 +1,18 @@
+{
+  "patient": {
+    "name": "John Doe",
+    "age": 21,
+    "diseasesSummary": {
+      "diseases": [
+        {
+          "name": "Diabetes",
+          "severity": "Mild"
+        },
+        {
+          "name": "Hypertension",
+          "severity": "Severe"
+        }
+      ]
+    }
+  }
+}
